@@ -10,6 +10,10 @@
 The project combines a **FastAPI** machine learning backend with an interactive, responsive **Vanilla HTML/CSS/JS web dashboard** featuring real-time input validation and an animated SVG gauge meter output.
 
 ---
+## Image
+
+<img width="870" height="900" alt="Image" src="https://github.com/user-attachments/assets/244fb001-b707-4e6c-a03f-201342a982cd" />
+
 
 ## 📌 Table of Contents
 
